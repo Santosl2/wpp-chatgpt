@@ -18,8 +18,6 @@ function start(client) {
   client.onMessage(async (message) => {
     const { body } = message;
 
-    await client.sendText(message.from, "Hmm... wait a moment!");
-
     const completion = await openai.createCompletion({
       model: "text-davinci-003",
       prompt: body,
