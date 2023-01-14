@@ -4,8 +4,7 @@ Whatsapp Chat GPT is a simple Whatsapp bot that consuming OpenIA API. You can ma
 
 ## Demo video
 
-
-https://user-images.githubusercontent.com/67132916/212447763-713533d1-680f-4a0a-8719-c8feec9bbdc9.mp4
+https://user-images.githubusercontent.com/67132916/212448427-d70eceb9-b59b-49f9-8c23-0c4654a312ff.mp4
 
 
 ## Technologies
