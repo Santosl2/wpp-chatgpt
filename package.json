@@ -1,0 +1,17 @@
+{
+  "name": "wpp-chatgpt",
+  "version": "1.0.0",
+  "description": "Make your whatsapp BOT talk like a human!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [],
+  "author": "Santosl2",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.55.0",
+    "openai": "^3.1.0"
+  }
+}

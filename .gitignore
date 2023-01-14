@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+
+# managed by open-wa
+**.data.json
+**.node-persist**
+**_IGNORE_**
+tokens/
+# end managed by open-wa
